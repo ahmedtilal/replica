@@ -7,6 +7,7 @@ name = "pypi"
 requests = "*"
 singer-python = "*"
 singer-target-postgres = "*"
+target-csv = "*"
 
 [dev-packages]
 
